@@ -1,0 +1,10 @@
+[
+  {
+    "package": "hystReet",
+    "oncran": true
+  },
+  {
+    "package": "qoi",
+    "oncran": true
+  }
+]
